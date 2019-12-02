@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gestao-a-vista-everest/static/css/main.498d002a.chunk.css",
+    "main.js": "/gestao-a-vista-everest/static/js/main.60ac74fe.chunk.js",
+    "main.js.map": "/gestao-a-vista-everest/static/js/main.60ac74fe.chunk.js.map",
+    "runtime~main.js": "/gestao-a-vista-everest/static/js/runtime~main.3f8c7be3.js",
+    "runtime~main.js.map": "/gestao-a-vista-everest/static/js/runtime~main.3f8c7be3.js.map",
+    "static/js/2.4590bfa1.chunk.js": "/gestao-a-vista-everest/static/js/2.4590bfa1.chunk.js",
+    "static/js/2.4590bfa1.chunk.js.map": "/gestao-a-vista-everest/static/js/2.4590bfa1.chunk.js.map",
+    "index.html": "/gestao-a-vista-everest/index.html",
+    "precache-manifest.b4cc9092192bb81d7c750ed9f2a2b7f0.js": "/gestao-a-vista-everest/precache-manifest.b4cc9092192bb81d7c750ed9f2a2b7f0.js",
+    "service-worker.js": "/gestao-a-vista-everest/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/gestao-a-vista-everest/static/css/main.498d002a.chunk.css.map"
+  }
+}
