@@ -55,7 +55,7 @@ class App extends React.Component {
                     <Tabs value={page} onChange={this.handleChange} style={{ flexGrow: 1 }}>
                         <Tab wrapped label='Ritos' />
                         <Tab wrapped label='Diagnóstico' />
-                        <Tab wrapped label='1-1' />
+                        <Tab wrapped label='1-1 - Ride Sharing' />
                     </Tabs>
                     <Fab onClick={this.handleClick} className={classes.fab} color='secondary'>
                         {this.state.play ? (
