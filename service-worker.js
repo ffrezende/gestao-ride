@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gestao-ride/precache-manifest.0758e8e404bcfaea97445c07271f5167.js"
+  "/gestao-ride/precache-manifest.f3d5f3a7701680f2d8759881fbf72f19.js"
 );
 
 self.addEventListener('message', (event) => {
